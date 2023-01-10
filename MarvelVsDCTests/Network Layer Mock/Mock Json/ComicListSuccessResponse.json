@@ -1,0 +1,97 @@
+{
+    "marvel": [{
+            "name": "Deadpool",
+            "likeCount": 174,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/deadpool-et00038638-22-09-2020-02-41-33.jpg"
+        },
+        {
+            "name": "Hulk",
+            "likeCount": 112,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-hulk-et00003104-23-02-2021-08-37-57.jpg"
+        },
+        {
+            "name": "Doctor Strange",
+            "likeCount": 142,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/doctor-strange-in-the-multiverse-of-madness-et00310791-13-05-2021-05-00-28.jpg"
+        },
+        {
+            "name": "Thor",
+            "likeCount": 167,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/thor-2-the-dark-world-et00014184-08-08-2017-12-29-15.jpg"
+        },
+        {
+            "name": "Captain Marvel",
+            "likeCount": 189,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/captain-marvel-et00056555-27-04-2017-10-23-21.jpg"
+        },
+        {
+            "name": "Captain America",
+            "likeCount": 177,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/captain-america-the-winter-soldier-et00016580-28-12-2016-06-45-26.jpg"
+        },
+        {
+            "name": "Black Widow",
+            "likeCount": 245,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/black-widow-et00118161-18-09-2020-04-09-59.jpg"
+        },
+        {
+            "name": "Spider Man",
+            "likeCount": 111,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-far-from-home-et00078437-23-10-2020-06-07-11.jpg"
+        },
+        {
+            "name": "Black Panther",
+            "likeCount": 143,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/black-panther-et00046523-16-09-2016-12-06-19.jpg"
+        },
+        {
+            "name": "Ant-Man",
+            "likeCount": 143,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/ant-man-and-the-wasp-et00069345-17-01-2018-11-20-37.jpg"
+        }
+    ],
+    "dc": [
+
+        {
+            "name": "Wonder Woman",
+            "likeCount": 222,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/wonder-woman-et00040458-15-03-2021-01-43-28.jpg"
+        },
+        {
+            "name": "Superman",
+            "likeCount": 211,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/superman-iii-et00310180-13-04-2021-10-55-56.jpg",
+            "is_leader": true
+        },
+        {
+            "name": "Aquaman",
+            "likeCount": 187,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/aquaman-et00052996-19-02-2021-06-10-43.jpg"
+        },
+        {
+            "name": "Catwoman",
+            "likeCount": 199,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/catwoman-iemv075517-24-05-2021-16-23-27.jpg"
+        },
+        {
+            "name": "Shazam",
+            "likeCount": 154,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/shazam!-et00072971-30-10-2020-05-07-22.jpg"
+        },
+        {
+            "name": "Batman",
+            "likeCount": 267,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/the-dark-knight-et00001549-17-03-2021-06-39-49.jpg"
+        },
+        {
+            "name": "Joker",
+            "likeCount": 209,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/joker-et00100071-08-02-2021-10-33-41.jpg"
+        },
+        {
+            "name": "Green Lantern",
+            "likeCount": 31,
+            "image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/green-lantern-et00005951-24-03-2017-18-53-17.jpg"
+        }
+    ]
+}
